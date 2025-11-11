@@ -1,1 +1,1 @@
-worker: python railway-setup.py
+worker: python main.py
